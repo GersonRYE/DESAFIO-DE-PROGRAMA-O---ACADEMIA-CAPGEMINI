@@ -1,4 +1,4 @@
-# DESAFIO-DE-PROGRAMA-O---ACADEMIA-CAPGEMINI
+# DESAFIO-DE-PROGRAMAÇÃO---ACADEMIA-CAPGEMINI
 
 1. Foi utilizado a linguagem JAVA.
 2. Recomendado utilizar a IDE - Eclipse, mas deve baixar primeiro o pacote JDK para o funcionamento do mesmo.
