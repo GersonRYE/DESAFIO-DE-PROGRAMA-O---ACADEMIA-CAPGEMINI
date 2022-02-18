@@ -1,7 +1,21 @@
 # DESAFIO-DE-PROGRAMAÇÃO---ACADEMIA-CAPGEMINI
 
-1. Foi utilizado a linguagem JAVA.
-2. Recomendado utilizar a IDE - Eclipse, mas deve baixar primeiro o pacote JDK para o funcionamento do mesmo.
-3. Quando ja tiver instalado a IDE, clonar o repositorio do GITHUB, e depois importar no Eclipse.
-4. Quando importar no eclipse as bibliotecas internas do java serão instaladas automaticamente para o projeto funcionar.
-5. Os exercicios estarão na pasta SRC.
+Repositório dos exercicios -  Desafio de Programação da Academia Capgemini. 
+####Exercicio 3 sem resolução.
+
+### Tecnologias necessárias:
+- Java
+
+### Ferramentas necessárias:
+- Eclipse(IDE)
+
+# Como executar o projeto:
+
+1. [Clone o repositório](https://github.com/GersonRYE/DESAFIO-DE-PROGRAMACAO---ACADEMIA-CAPGEMINI.git);
+2. Abra o Eclipse;
+3. Importe o projeto: 
+  ```File -> Import... -> Existing Projects into Worksparce -> Browse... -> localize o diretório -> Abra a pasta AcademiaCapgemini -> Clique em Selecione a pasta -> Finish```;
+4. Depois de importado:
+  ```Selecionar a pasta -> src -> escolha o arquivo -> run```
+  
+  
