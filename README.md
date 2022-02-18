@@ -1,15 +1,16 @@
 # DESAFIO-DE-PROGRAMAÇÃO---ACADEMIA-CAPGEMINI
 
 Repositório dos exercicios -  Desafio de Programação da Academia Capgemini. 
-####Exercicio 3 sem resolução.
+Obs.:Exercicio 3 sem resolução.
+
+
+# Como executar o projeto:
 
 ### Tecnologias necessárias:
 - Java
 
 ### Ferramentas necessárias:
 - Eclipse(IDE)
-
-# Como executar o projeto:
 
 1. [Clone o repositório](https://github.com/GersonRYE/DESAFIO-DE-PROGRAMACAO---ACADEMIA-CAPGEMINI.git);
 2. Abra o Eclipse;
